@@ -1,0 +1,11 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "No build on Linux - Open in Xcode on macOS",
+            "type": "shell",
+            "command": "echo 'iOS builds require macOS and Xcode.'",
+            "problemMatcher": []
+        }
+    ]
+}
